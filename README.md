@@ -1,9 +1,10 @@
 # Forest Theme
 
-A quiet, low-contrast theme built around muted olive-greens, soft greys, and a
-small set of desaturated accent colors (blue, red, purple, amber). Designed to
-be easy on the eyes for long terminal and editor sessions, without the harsh
-contrast of typical themes.
+A quiet, restrained-contrast theme built around muted olive-greens, soft greys,
+and a small set of desaturated accent colors (blue, red, purple, amber).
+Designed to be easy on the eyes for long terminal and editor sessions, with the
+text lifted just enough off the background to stay comfortable to read, without
+the harsh contrast of typical themes.
 
 Two variants are included:
 
@@ -19,26 +20,26 @@ Two variants are included:
 | Role        | Color                               |
 | ----------- | ------------------------------------ |
 | Background  | `#dfe4cd` |
-| Foreground  | `#5a5d5a` |
-| Comments / muted | `#7f8f8a` |
-| Accent (blue)   | `#435a69` |
-| Green   | `#5f7a5a` |
-| Red     | `#b65045` |
-| Yellow / amber | `#a67c3d` |
-| Purple  | `#8f899f` |
+| Foreground  | `#515451` |
+| Comments / muted | `#71827d` |
+| Accent (blue)   | `#3c515f` |
+| Green   | `#566e51` |
+| Red     | `#a4483e` |
+| Yellow / amber | `#957037` |
+| Purple  | `#807992` |
 
 ### Forest Dark
 
 | Role        | Color                               |
 | ----------- | ------------------------------------ |
 | Background  | `#1e231b` |
-| Foreground  | `#b0b8a2` |
-| Comments / muted | `#7d8770` |
-| Accent (blue)   | `#7b9cb0` |
-| Green   | `#8aab81` |
-| Red     | `#c06f64` |
-| Yellow / amber | `#c99f5b` |
-| Purple  | `#a8a2b8` |
+| Foreground  | `#b9c1ad` |
+| Comments / muted | `#8d9681` |
+| Accent (blue)   | `#8ba8b9` |
+| Green   | `#98b590` |
+| Red     | `#c88077` |
+| Yellow / amber | `#cfab6f` |
+| Purple  | `#b2adc1` |
 
 ## Screenshots
 
